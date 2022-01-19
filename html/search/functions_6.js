@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['saisiecontrole',['saisieControle',['../besoin_client_8c.html#aa9cd71e5ef82ec795a9e20df4cfd5297',1,'saisieControle(int *qte, float *prixU, int *seuilSecu):&#160;besoinClient.c'],['../besoin_client_8h.html#aa9cd71e5ef82ec795a9e20df4cfd5297',1,'saisieControle(int *qte, float *prixU, int *seuilSecu):&#160;besoinClient.c']]],
+  ['seuilsecu',['seuilSecu',['../besoin_client_8c.html#a9501bb68b62959e456bdda5d7af32da3',1,'seuilSecu(int *tRef, int tQuant[], float *tPrixU, int tSeuil[], int n):&#160;besoinClient.c'],['../besoin_client_8h.html#a9501bb68b62959e456bdda5d7af32da3',1,'seuilSecu(int *tRef, int tQuant[], float *tPrixU, int tSeuil[], int n):&#160;besoinClient.c']]],
+  ['supdecalage',['supDecalage',['../besoin_client_8c.html#a8fe5bfb980d8e13e246aa222e45f7dd1',1,'supDecalage(int *tRef, int tQuant[], float *tPrixU, int tSeuil[], int n, int pos):&#160;besoinClient.c'],['../besoin_client_8h.html#a8fe5bfb980d8e13e246aa222e45f7dd1',1,'supDecalage(int *tRef, int tQuant[], float *tPrixU, int tSeuil[], int n, int pos):&#160;besoinClient.c']]],
+  ['suppression',['suppression',['../besoin_client_8c.html#a7a80461524789c5387450fce57a6d5a6',1,'suppression(int *tRef, int tQuant[], float *tPrixU, int tSeuil[], int *n):&#160;besoinClient.c'],['../besoin_client_8h.html#a7a80461524789c5387450fce57a6d5a6',1,'suppression(int *tRef, int tQuant[], float *tPrixU, int tSeuil[], int *n):&#160;besoinClient.c']]]
+];
